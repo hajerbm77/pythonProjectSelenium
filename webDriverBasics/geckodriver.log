@@ -1,0 +1,26 @@
+1694622537485	geckodriver	INFO	Listening on 127.0.0.1:60816
+1694622537940	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/81/x74zfd_j1217y_r06scl9dkm0000gn/T/rust_mozprofilehLpUvr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694622539343	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694622539747	Marionette	INFO	Listening on port 60836
+Read port: 60836
+WebDriver BiDi listening on ws://127.0.0.1:60817
+1694622540115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60817/devtools/browser/7ad0d804-d443-4623-ba16-b9c79427c43b
+1694622545324	Marionette	INFO	Stopped listening on port 60836
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694622553383	geckodriver	INFO	Listening on 127.0.0.1:60945
+1694622553777	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/81/x74zfd_j1217y_r06scl9dkm0000gn/T/rust_mozprofile0JZD3B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694622554845	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694622555184	Marionette	INFO	Listening on port 60960
+Read port: 60960
+WebDriver BiDi listening on ws://127.0.0.1:60946
+1694622555631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60946/devtools/browser/9061532e-8560-4cce-9ca5-2d060771cb03
+1694622560233	Marionette	INFO	Stopped listening on port 60960
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
